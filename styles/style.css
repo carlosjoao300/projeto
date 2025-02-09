@@ -35,7 +35,7 @@ body{
 
 .cabecalho__menu__link{
     font-family: var(--fonte-secundaria);
-    font-size: 1,5rem;
+    font-size: 1.5rem;
     font-weight: 600;
     color: var(--cor-terciaria);
     text-decoration: none;
@@ -112,8 +112,7 @@ body{
     font-weight: 400;
     
 }
-
-@media (max-width: 1200px ) {
+@media(max-width: 1200px){
     .cabecalho{
         padding: 10%;
     }
@@ -130,8 +129,9 @@ body{
     .apresentacao__conteudo{
         width: auto;
     }
+    
 
-    .apresentacao__imagem{
-        width: 60%
-       
-    }
+}
+
+
+
